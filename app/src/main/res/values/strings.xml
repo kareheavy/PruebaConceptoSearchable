@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PruebaConceptoSearchable</string>
+    <string name="search_hint">Ingrese Palabras Cables</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array">
+        <item>motorola</item>
+        <item>samsung</item>
+        <item>apple</item>
+        <item>tesla</item>
+        <item>xiaomi</item>
+    </string-array>
+</resources>
